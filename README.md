@@ -1,4 +1,4 @@
 use-case-demo
 =============
 
-Demonstrating using open contracting data
+Don't forget to install Bokeh.
