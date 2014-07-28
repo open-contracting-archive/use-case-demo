@@ -32,6 +32,6 @@ def create_scatter_plot(releases):
 
 if __name__ == '__main__':
     from indicatorCalculation.json_parser.parser import parse_json, get_releases
-    releases = get_releases(parse_json('tests/test_data/georgia.json'))
+    releases = get_releases(parse_json('tests/test_data/georgia_small.json'))
 
     create_scatter_plot(releases)
