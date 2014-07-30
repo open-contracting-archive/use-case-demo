@@ -1,0 +1,794 @@
+{
+    "publisher": {
+        "scheme": "",
+        "name": "Tender Monitor",
+        "uri": "",
+        "uid": ""
+    },
+    "releases": [
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012785",
+                "releaseTag": "awardNotice",
+                "releaseID": "1"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 1,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85103",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-07-03",
+                    "endDate": "2013-07-03"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-28",
+                    "endDate": "2013-07-03"
+                },
+                "clarifications": "",
+                "submissionMethod": "ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "66500000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 1,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 22110.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "1",
+                    "scheme": "",
+                    "name": "საქართველოს ფინანსთა სამინისტრო",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012786",
+                "releaseTag": "awardNotice",
+                "releaseID": "2"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 1,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85104",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-07-03",
+                    "endDate": "2013-07-03"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-28",
+                    "endDate": "2013-07-03"
+                },
+                "clarifications": "",
+                "submissionMethod": "ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "39200000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 1,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 2870.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "2",
+                    "scheme": "",
+                    "name": "ქ. თბილისის მერია",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012787",
+                "releaseTag": "awardNotice",
+                "releaseID": "3"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 1,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85106",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-06-17",
+                    "endDate": "2013-06-17"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-13",
+                    "endDate": "2013-06-17"
+                },
+                "clarifications": "",
+                "submissionMethod": "გამარტივებული ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "22600000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 1,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 4935.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "3",
+                    "scheme": "",
+                    "name": "საქართველოს ტექნიკური უნივერსიტეტი",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012788",
+                "releaseTag": "awardNotice",
+                "releaseID": "4"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 1,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85107",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-06-17",
+                    "endDate": "2013-06-17"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-13",
+                    "endDate": "2013-06-17"
+                },
+                "clarifications": "",
+                "submissionMethod": "გამარტივებული ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "22500000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 1,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 4947.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "3",
+                    "scheme": "",
+                    "name": "საქართველოს ტექნიკური უნივერსიტეტი",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012781",
+                "releaseTag": "awardNotice",
+                "releaseID": "5"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 8,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85099",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-06-14",
+                    "endDate": "2013-06-14"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-12",
+                    "endDate": "2013-06-14"
+                },
+                "clarifications": "",
+                "submissionMethod": "გამარტივებული ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "79800000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 3,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 2700.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "5",
+                    "scheme": "",
+                    "name": "სოციალური მომსახურების სააგენტო",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012782",
+                "releaseTag": "awardNotice",
+                "releaseID": "6"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 13,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85100",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-07-02",
+                    "endDate": "2013-07-02"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-27",
+                    "endDate": "2013-07-02"
+                },
+                "clarifications": "",
+                "submissionMethod": "ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "30200000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 4,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 13120.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "5",
+                    "scheme": "",
+                    "name": "სოციალური მომსახურების სააგენტო",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012783",
+                "releaseTag": "awardNotice",
+                "releaseID": "7"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 0,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85101",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-06-14",
+                    "endDate": "2013-06-14"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-12",
+                    "endDate": "2013-06-14"
+                },
+                "clarifications": "",
+                "submissionMethod": "გამარტივებული ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "50100000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 0,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 1400.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "5",
+                    "scheme": "",
+                    "name": "სოციალური მომსახურების სააგენტო",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        },
+        {
+            "releaseMeta": {
+                "locale": "",
+                "ocid": "SPA130012784",
+                "releaseTag": "awardNotice",
+                "releaseID": "8"
+            },
+            "award": {},
+            "planning": {},
+            "formation": {
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBids": 2,
+                "notice": {
+                    "amendment": {
+                        "amendmentDate": "",
+                        "justification": "",
+                        "amendedFields": ""
+                    },
+                    "isAmendment": "",
+                    "uri": "http://tendermonitor.ge/en/tenders/",
+                    "id": "85102",
+                    "publishedDate": "2013-06-11"
+                },
+                "awardPeriod": {
+                    "startDate": "2013-07-03",
+                    "endDate": "2013-07-03"
+                },
+                "methodJustification": "",
+                "tenderPeriod": {
+                    "startDate": "2013-06-28",
+                    "endDate": "2013-07-03"
+                },
+                "clarifications": "",
+                "submissionMethod": "ელექტრონული ტენდერი",
+                "itemsToBeProcured": [
+                    {
+                        "unitOfMeasure": "",
+                        "description": "",
+                        "valuePerUnit": {
+                            "currency": "",
+                            "amount": ""
+                        },
+                        "classificationID": "45400000",
+                        "classificationScheme": "CPV",
+                        "classificationDescription": "",
+                        "otherClassificationScheme": "",
+                        "quantity": ""
+                    }
+                ],
+                "selectionCriteria": "",
+                "procuringEntity": {
+                    "id": {
+                        "uid": "",
+                        "scheme": "",
+                        "name": "",
+                        "uri": ""
+                    }
+                },
+                "numberOfBidders": 2,
+                "submissionDetails": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "uid": "",
+                            "scheme": "",
+                            "name": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "currency": "LARI",
+                    "amount": 43573.0
+                },
+                "selectionDetails": "",
+                "method": "",
+                "attachments": [
+                    {
+                        "lastModified": "",
+                        "description": "",
+                        "uri": ""
+                    }
+                ]
+            },
+            "contract": {},
+            "buyer": {
+                "id": {
+                    "uid": "4",
+                    "scheme": "",
+                    "name": "ივანე ჯავახიშვილის სახელობის თბილისის სახელმწიფო უნივერსიტეტი",
+                    "uri": ""
+                }
+            },
+            "performance": {}
+        }
+    ]
+}
